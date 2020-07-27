@@ -24,8 +24,11 @@
 
 
 ## Assumptions
+* Majority of budget entries are entered as one of the following formats
+  * $123.4 million/billion
+  * $123,456,789
+* Runtime does not include seconds. It only includes hours, hour & minutes, or minutes.
+* We dropped the Wikipedia data because Wikipedia data is missing release dates for 11 movies,But the Kaggle data isn’t missing any release dates. 
+* There is alot of assumptions made because the challenge file is missing alot of the expalanatory data that you will need to easily understand the code.
 * It is legitimate to replace NaN with zero's to better utilize dataset.
-* 
-* 
-* 
-* 
+* We decided to drop the Wikipedia data because the Kaggle data is much more consistent, and it would be difficult, to translate the Wikipedia data into the same format
