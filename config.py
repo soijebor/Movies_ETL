@@ -1,1 +1,1 @@
-db_password = 'Bratzgirl&010'
+db_password = 'Postgresqlsonia'
