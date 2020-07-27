@@ -24,7 +24,7 @@
 
 
 ## Assumptions
-* There is a lot of assumptions made because the challenge file is missing alot of the explanatory data that you will need to easily understand the code.
+* There is a lot of assumptions made because the challenge file is missing a lot of the explanatory data that you will need to easily understand the code.
 * Majority of budget entries are entered as one of the following formats
   * $123.4 million/billion
   * $123,456,789
